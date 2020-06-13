@@ -1,5 +1,4 @@
-# app
-
+# Chat-app
 
 
 Setup:
